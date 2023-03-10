@@ -1,0 +1,27 @@
+
+/* CSS rule SYNTAX
+    Selector(h1)
+    {} Declaration block
+    Declaration/s
+    property(color:)
+    value(red;)
+*/
+/*ko je blizi ima prioritet da menja*/
+h3{
+    text-transform:capitalize;
+    background: gray;    
+}
+/* TAG selector */
+h1{
+    color: aquamarine;
+    font-size: 64px;
+    background: lightslategrey;
+}
+/* ID  selector*/
+#one {
+    color:blanchedalmond;
+}
+/* CLASS selector */
+.two{
+    color: coral;
+}
